@@ -1,8 +1,4 @@
 **[Coquii STT](https://stt.readthedocs.io/en/latest/index.html) is an open-source deep-learning toolkit for training and deploying speech-to-text models.**
-<br>
-
-***
-<br>
 
 ## Prerequisites
 - python 3.6, 3.7 or 3.8
