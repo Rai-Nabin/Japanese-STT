@@ -19,8 +19,8 @@
 
 ## Follow the sequence of steps:
 1. Prepare Dataset
-2. Build Language Model
-3. Train/Fine-tune Model
-
+2. Transfer Learn the Model
+3. Build Language Model
+4. Test the Model
 
 

@@ -4,3 +4,7 @@ venv
 data
 .ipynb_checkpoints
 __pycache__
+kenlm
+scorer
+native_client
+checkpoints
